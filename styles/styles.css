@@ -1,0 +1,37 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #050507;
+  color: #f5f5f5;
+}
+
+.header-global .navbar-main.navbar-transparent {
+  background-color: transparent;
+}
+
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: radial-gradient(circle at top left, #b32607 0, #1a0808 35%, #050507 100%);
+}
+
+.hero-section .display-3,
+.hero-section .lead {
+  color: #f5f5f5;
+}
+
+.hero-section .btn-white {
+  background-color: #f5f5f5;
+  color: #050507;
+  border: none;
+}
+
+.hero-logo {
+  background-color: #050507;
+  border-radius: 9999px;
+  padding: 16px;
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.9);
+}

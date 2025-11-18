@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: fenr1s.dev
