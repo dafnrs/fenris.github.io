@@ -193,7 +193,7 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Zhulian Ginev – Solutions & DevOps Architect",
+  title: "Zhulian Ginev – Software Architect & Full Stack Engineer",
   description: greetings.description,
   author: "Zhulian Ginev",
   image: "https://fenr1s.dev/favicon.png",
@@ -201,6 +201,15 @@ export const seoData: SEODataType = {
   keywords: [
     "Zhulian",
     "Zhulian Ginev",
+    "Full Stack Engineer",
+    "Software Architect",
+    "System Architect",
+    "Infrastructure Architect",
+    "Cloud Architect",
+    "Cloud Engineer",
+    "Cloud Solutions Architect",
+    "Cloud Solutions Engineer",
+    "Cloud Solutions Architect",
     "DevOps",
     "Solutions Architect",
     "AWS DevOps Engineer",
