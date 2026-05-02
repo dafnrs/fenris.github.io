@@ -14,7 +14,7 @@ export const greetings: GreetingsType = {
   name: "fenr1s",
   title: "",
   description:
-    "Software Development, Infrastructure, System Architecture, On-Premises, Cloud, AI, I've been through it all. Now, I'm a crazy full stack developer who wants to have fun, build shit and make money.",
+    "Full-stack engineer, software architect, and technical leader with nearly a decade of experience turning ideas into real, production-ready systems. Equally comfortable designing architecture, writing code, leading delivery, and making hard technical decisions. A builder at heart — capable of taking products from concept to launch and scaling them beyond the first version.",
   resumeLink: "/resume.pdf",
 };
 
